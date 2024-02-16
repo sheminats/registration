@@ -1,0 +1,17 @@
+.q1{
+  background-color: rgb(9, 9, 73);
+}
+.back{
+  background-image: url('./assets/oops.jpg');
+  background-size: cover;
+background-repeat: no-repeat;
+}
+.o1{
+  background-color: rgb(88, 79, 224);
+}
+.s1{
+  background-image: url('./assets/backk.jpg');
+  background-size: cover;
+background-repeat: no-repeat;
+
+}
